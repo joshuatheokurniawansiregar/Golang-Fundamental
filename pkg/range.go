@@ -1,7 +1,7 @@
 package pkg
 
 import (
-	"Fundamentals/pkg/Functions"
+	"Golang-Fundamental/pkg/Functions"
 	"fmt"
 )
 

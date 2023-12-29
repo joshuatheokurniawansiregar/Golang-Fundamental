@@ -1,8 +1,8 @@
 package repository
 
 import (
-	db "Fundamentals/database_golang"
-	"Fundamentals/entity"
+	db "Golang-Fundamental/database_golang"
+	"Golang-Fundamental/entity"
 	"context"
 	"database/sql"
 )

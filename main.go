@@ -4,7 +4,7 @@ import (
 	// "Basics/Fundamentals/algorithms_and_data_structures"
 	// "Basics/Fundamentals/algorithms_and_data_structures/data_structures"
 
-	"Fundamentals/repository"
+	"Golang-Fundamental/repository"
 	"context"
 	"database/sql"
 	"errors"

@@ -1,4 +1,4 @@
-module Fundamentals
+module Golang-Fundamental
 
 go 1.21.0
 
